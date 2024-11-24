@@ -59,6 +59,11 @@
   margin: 0px 100px 50px 100px;
 }
 
+.button-group {
+  display: flex;
+  gap: 10px;
+}
+
 button {
   background-color: #326ac7;
   color: white;
